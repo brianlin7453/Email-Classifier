@@ -1,0 +1,9 @@
+The program wordProb.py is used to classifiy emails given to it based on training data. 
+It requires all the testing files(spam and ham) to be in a folder that is in the 
+current directory as the .py script
+
+To run:
+py wordProb.py <> it outputs the name of all files it went through. And also outputs the variables need to calculate the performance of the classifier 
+The format of output:					
+ num spam emails predicted 				num spam emails predicted correctly
+ num ham emails predicted 				num ham emails predicted correctly
